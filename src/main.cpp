@@ -5,9 +5,6 @@
 #include <vector>
 #include <cmath>
 
-// Group 35 ECE 6483 Final Project
-// Michael Lee, Nashara Marrow
-
 LCD_DISCO_F429ZI lcd;
 TS_DISCO_F429ZI ts;
 
